@@ -1,0 +1,14 @@
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+.books{
+  padding: 25px;
+  margin: auto;
+}
+
+.bookbtn{
+  width: 100px;
+  height: 100px;
+}
